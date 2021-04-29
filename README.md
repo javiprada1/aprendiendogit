@@ -1,4 +1,4 @@
-# aprendiendogit en las FCT
+# aprendiendogit en las FCT con Javi Prada
 
 Foobar is a Python library for dealing with word pluralization.
 
